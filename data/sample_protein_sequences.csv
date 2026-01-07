@@ -1,1 +1,6 @@
-
+Protein_ID,Sequence_Length,Family
+P001,320,Kinase
+P002,280,Kinase
+P003,410,Transporter
+P004,390,Transporter
+P005,150,Enzyme
